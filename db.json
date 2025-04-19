@@ -1046,7 +1046,49 @@
   ],
   "blogs": [
     {
-      "id": 1
+      "id": 1,
+      "title":"ADHD: What are visual tactile cues and how to use them",
+      "metaText":"Kit Slocum, ADHD coach and FLOWN facilitator, explains how she uses tactile visual cues to help her remember things and take the right actions."
+    },
+    {
+      "id": 2,
+      "title":"10 Ways Virtual Coworking Boosts Your Productivity Like Never Before",
+      "metaText":"Explore 10 ways virtual coworking helps you stay focused, build routines, and crush goals—all from the comfort of home."
+    },
+    {
+      "id": 3,
+      "title":"ADHD Testing for Adults UK: 4 Steps to Get Diagnosed",
+      "metaText":"‘Do I have ADHD?’ ‘What should I do to find out?’ Get the rundown on everything you need to know to about ADHD testing, and what to expect when progressing toward an ADHD diagnosis."
+    },
+    {
+      "id": 4,
+      "title":"60 Inspiring Quotes About Procrastination to Boost Motivation and Productivity",
+      "metaText":"Stop procrastination becoming “the thief of time”. Get unstuck with 60 of our favourite quotes about proscrastination for a motivation and productivity boost."
+    },
+    {
+      "id": 5,
+      "title":"Types of Procrastination: Psychology, Causes, and Proven Ways to Overcome It",
+      "metaText":"Delve into the intricacies of procrastination as we unpack the psychology behind it—why we delay, the underlying causes, and strategies to conquer the habit."
+    },
+    {
+      "id": 6,
+      "title":"Fear of failure might be at the root of your procrastination: How to overcome Atychiphobia",
+      "metaText":"Fear of failure can be incapacitating, let's dig into what causes it, how it might affect you and how to overcome atychiphobia."
+    },
+    {
+      "id": 7,
+      "title":"Adderall Shortage: 7 Ways to Manage ADHD Without Medication",
+      "metaText":"Discover why there’s an Adderall shortage and learn FLOWN’s tips on navigating your ADHD during the shortage"
+    },
+    {
+      "id": 8,
+      "title":"Why I can’t focus at work (and 10 proven ways to fix it)",
+      "metaText":"Distractions are everywhere but you can learn to avoid them while boosting your concentration with 10 proven ways to fix your focus."
+    },
+    {
+      "id": 9,
+      "title":"Body doubling and you: unlock your focus whether you have ADHD or not",
+      "metaText":"Dip into our comprehensive guide to body doubling, and learn practical tips on how to use it to stop procrastinating, spark focus, and make productivity easy."
     }
   ]
 }
