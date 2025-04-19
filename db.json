@@ -1,1 +1,1052 @@
-{}
+{
+  "users": [
+    {
+      "username": "meera",
+      "email": "meera123@gmail.com",
+      "password": "angamaly",
+      "id": 2
+    },
+    {
+      "username": "levi_ackerman",
+      "email": "levi@paradise.com",
+      "password": "kennyack",
+      "id": 3
+    },
+    {
+      "username": "savidh",
+      "email": "savidh27@gmail.com",
+      "password": "hellothere",
+      "id": 4
+    },
+    {
+      "username": "Toji",
+      "email": "fushiguro@zenin.com",
+      "password": "shikigami",
+      "id": 5
+    },
+    {
+      "username": "Lawliet",
+      "email": "law@taskforce.com",
+      "password": "yammyshouse",
+      "id": 6
+    },
+    {
+      "username": "thorfinn",
+      "email": "karlsefni@vinland.com",
+      "password": "askellad",
+      "id": 7
+    },
+    {
+      "username": "luna",
+      "email": "llovegood@hogwards.edu",
+      "password": "hallows",
+      "id": 9
+    },
+    {
+      "username": "elliot",
+      "email": "ealderson@allsafe.com",
+      "password": "eugene",
+      "id": 1
+    },
+    {
+      "username": "aiswarya",
+      "email": "aiswarya@luminar.com",
+      "password": "uidesigner",
+      "id": 8
+    }
+  ],
+  "alluserhabits": [
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "monica"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "levi_ackerman"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "john wick"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "thorfinn"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "lawliet"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "erwin_smith"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "scott"
+    },
+    {
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [
+        "meditation"
+      ],
+      "public": [],
+      "id": "aiswarya"
+    }
+  ],
+  "alluserhistory": [
+    {
+      "exercise": {
+        "type": "core",
+        "startdate": "2025-02-10",
+        "enddate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": [
+            {
+              "date": "2025-01-01",
+              "value": 1
+            },
+            {
+              "date": "2025-01-02",
+              "value": 3
+            },
+            {
+              "date": "2025-01-03",
+              "value": 0
+            },
+            {
+              "date": "2025-01-04",
+              "value": 2
+            },
+            {
+              "date": "2025-01-05",
+              "value": 3
+            },
+            {
+              "date": "2025-01-06",
+              "value": 3
+            },
+            {
+              "date": "2025-01-07",
+              "value": 2
+            },
+            {
+              "date": "2025-01-08",
+              "value": 0
+            },
+            {
+              "date": "2025-01-09",
+              "value": 2
+            },
+            {
+              "date": "2025-01-10",
+              "value": 0
+            },
+            {
+              "date": "2025-01-11",
+              "value": 0
+            },
+            {
+              "date": "2025-01-12",
+              "value": 1
+            },
+            {
+              "date": "2025-01-13",
+              "value": 3
+            },
+            {
+              "date": "2025-01-14",
+              "value": 4
+            },
+            {
+              "date": "2025-01-15",
+              "value": 4
+            },
+            {
+              "date": "2025-01-16",
+              "value": 4
+            },
+            {
+              "date": "2025-01-17",
+              "value": 3
+            },
+            {
+              "date": "2025-01-18",
+              "value": 2
+            },
+            {
+              "date": "2025-01-19",
+              "value": 5
+            },
+            {
+              "date": "2025-01-20",
+              "value": 4
+            },
+            {
+              "date": "2025-01-21",
+              "value": 3
+            },
+            {
+              "date": "2025-01-22",
+              "value": 4
+            },
+            {
+              "date": "2025-01-23",
+              "value": 3
+            },
+            {
+              "date": "2025-01-24",
+              "value": 0
+            },
+            {
+              "date": "2025-01-25",
+              "value": 4
+            },
+            {
+              "date": "2025-01-26",
+              "value": 4
+            },
+            {
+              "date": "2025-01-27",
+              "value": 0
+            },
+            {
+              "date": "2025-01-28",
+              "value": 5
+            },
+            {
+              "date": "2025-01-29",
+              "value": 1
+            },
+            {
+              "date": "2025-01-30",
+              "value": 3
+            },
+            {
+              "date": "2025-01-31",
+              "value": 5
+            },
+            {
+              "date": "2025-02-01",
+              "value": 4
+            },
+            {
+              "date": "2025-02-02",
+              "value": 5
+            },
+            {
+              "date": "2025-02-03",
+              "value": 1
+            },
+            {
+              "date": "2025-02-04",
+              "value": 2
+            },
+            {
+              "date": "2025-02-05",
+              "value": 1
+            },
+            {
+              "date": "2025-02-06",
+              "value": 0
+            },
+            {
+              "date": "2025-02-07",
+              "value": 5
+            },
+            {
+              "date": "2025-02-08",
+              "value": 4
+            },
+            {
+              "date": "2025-02-09",
+              "value": 3
+            },
+            {
+              "date": "2025-02-10",
+              "value": 2
+            },
+            {
+              "date": "2025-02-11",
+              "value": 0
+            },
+            {
+              "date": "2025-02-12",
+              "value": 0
+            },
+            {
+              "date": "2025-02-13",
+              "value": 4
+            },
+            {
+              "date": "2025-02-14",
+              "value": 3
+            },
+            {
+              "date": "2025-02-15",
+              "value": 4
+            },
+            {
+              "date": "2025-02-16",
+              "value": 3
+            },
+            {
+              "date": "2025-02-17",
+              "value": 0
+            },
+            {
+              "date": "2025-02-18",
+              "value": 3
+            },
+            {
+              "date": "2025-02-19",
+              "value": 0
+            },
+            {
+              "date": "2025-02-20",
+              "value": 2
+            },
+            {
+              "date": "2025-02-21",
+              "value": 3
+            },
+            {
+              "date": "2025-02-22",
+              "value": 5
+            },
+            {
+              "date": "2025-02-23",
+              "value": 5
+            },
+            {
+              "date": "2025-02-24",
+              "value": 2
+            },
+            {
+              "date": "2025-02-25",
+              "value": 0
+            },
+            {
+              "date": "2025-02-26",
+              "value": 4
+            },
+            {
+              "date": "2025-02-27",
+              "value": 0
+            },
+            {
+              "date": "2025-02-28",
+              "value": 0
+            },
+            {
+              "date": "2025-03-01",
+              "value": 1
+            },
+            {
+              "date": "2025-03-02",
+              "value": 0
+            },
+            {
+              "date": "2025-03-03",
+              "value": 0
+            },
+            {
+              "date": "2025-03-04",
+              "value": 2
+            },
+            {
+              "date": "2025-03-05",
+              "value": 4
+            },
+            {
+              "date": "2025-03-06",
+              "value": 0
+            },
+            {
+              "date": "2025-03-07",
+              "value": 4
+            },
+            {
+              "date": "2025-03-08",
+              "value": 3
+            },
+            {
+              "date": "2025-03-09",
+              "value": 0
+            },
+            {
+              "date": "2025-03-10",
+              "value": 2
+            },
+            {
+              "date": "2025-03-11",
+              "value": 0
+            },
+            {
+              "date": "2025-03-12",
+              "value": 3
+            },
+            {
+              "date": "2025-03-13",
+              "value": 3
+            },
+            {
+              "date": "2025-03-14",
+              "value": 4
+            },
+            {
+              "date": "2025-03-15",
+              "value": 1
+            },
+            {
+              "date": "2025-03-16",
+              "value": 1
+            },
+            {
+              "date": "2025-03-17",
+              "value": 4
+            },
+            {
+              "date": "2025-03-18",
+              "value": 1
+            },
+            {
+              "date": "2025-03-19",
+              "value": 3
+            },
+            {
+              "date": "2025-03-20",
+              "value": 2
+            },
+            {
+              "date": "2025-03-21",
+              "value": 3
+            },
+            {
+              "date": "2025-03-22",
+              "value": 0
+            },
+            {
+              "date": "2025-03-23",
+              "value": 4
+            },
+            {
+              "date": "2025-03-24",
+              "value": 4
+            },
+            {
+              "date": "2025-03-25",
+              "value": 1
+            },
+            {
+              "date": "2025-03-26",
+              "value": 4
+            },
+            {
+              "date": "2025-03-27",
+              "value": 0
+            },
+            {
+              "date": "2025-03-28",
+              "value": 2
+            },
+            {
+              "date": "2025-03-29",
+              "value": 1
+            },
+            {
+              "date": "2025-03-30",
+              "value": 3
+            },
+            {
+              "date": "2025-03-31",
+              "value": 5
+            },
+            {
+              "date": "2025-04-01",
+              "value": 5
+            },
+            {
+              "date": "2025-04-02",
+              "value": 2
+            },
+            {
+              "date": "2025-04-03",
+              "value": 0
+            },
+            {
+              "date": "2025-04-04",
+              "value": 0
+            },
+            {
+              "date": "2025-04-05",
+              "value": 2
+            },
+            {
+              "date": "2025-04-06",
+              "value": 1
+            },
+            {
+              "date": "2025-04-07",
+              "value": 4
+            },
+            {
+              "date": "2025-04-08",
+              "value": 2
+            },
+            {
+              "date": "2025-04-09",
+              "value": 0
+            },
+            {
+              "date": "2025-04-10",
+              "value": 5
+            },
+            {
+              "date": "2025-04-11",
+              "value": 0
+            },
+            {
+              "date": "2025-04-12",
+              "value": 4
+            },
+            {
+              "date": "2025-04-13",
+              "value": 0
+            },
+            {
+              "date": "2025-04-14",
+              "value": 0
+            },
+            {
+              "date": "2025-04-15",
+              "value": 1
+            },
+            {
+              "date": "2025-04-16",
+              "value": 4
+            },
+            {
+              "date": "2025-04-17",
+              "value": 0
+            },
+            {
+              "date": "2025-04-18",
+              "value": 4
+            },
+            {
+              "date": "2025-04-19",
+              "value": 4
+            }
+          ]
+        }
+      },
+      "python": {
+        "type": "public",
+        "startdate": "2025-03-03",
+        "enddate": "2025-05-20",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": [
+          {
+            "date": "2025-03-01",
+            "value": 0
+          },
+          {
+            "date": "2025-03-02",
+            "value": 0
+          },
+          {
+            "date": "2025-03-03",
+            "value": 0
+          },
+          {
+            "date": "2025-03-04",
+            "value": 1
+          },
+          {
+            "date": "2025-03-05",
+            "value": 4
+          },
+          {
+            "date": "2025-03-06",
+            "value": 1
+          },
+          {
+            "date": "2025-03-07",
+            "value": 5
+          },
+          {
+            "date": "2025-03-08",
+            "value": 1
+          },
+          {
+            "date": "2025-03-09",
+            "value": 3
+          },
+          {
+            "date": "2025-03-10",
+            "value": 5
+          },
+          {
+            "date": "2025-03-11",
+            "value": 5
+          },
+          {
+            "date": "2025-03-12",
+            "value": 1
+          },
+          {
+            "date": "2025-03-13",
+            "value": 2
+          },
+          {
+            "date": "2025-03-14",
+            "value": 3
+          },
+          {
+            "date": "2025-03-15",
+            "value": 4
+          },
+          {
+            "date": "2025-03-16",
+            "value": 4
+          },
+          {
+            "date": "2025-03-17",
+            "value": 0
+          },
+          {
+            "date": "2025-03-18",
+            "value": 3
+          },
+          {
+            "date": "2025-03-19",
+            "value": 2
+          },
+          {
+            "date": "2025-03-20",
+            "value": 3
+          },
+          {
+            "date": "2025-03-21",
+            "value": 0
+          },
+          {
+            "date": "2025-03-22",
+            "value": 2
+          },
+          {
+            "date": "2025-03-23",
+            "value": 1
+          },
+          {
+            "date": "2025-03-24",
+            "value": 1
+          },
+          {
+            "date": "2025-03-25",
+            "value": 1
+          },
+          {
+            "date": "2025-03-26",
+            "value": 1
+          },
+          {
+            "date": "2025-03-27",
+            "value": 1
+          },
+          {
+            "date": "2025-03-28",
+            "value": 5
+          },
+          {
+            "date": "2025-03-29",
+            "value": 1
+          },
+          {
+            "date": "2025-03-30",
+            "value": 5
+          },
+          {
+            "date": "2025-03-31",
+            "value": 4
+          },
+          {
+            "date": "2025-04-01",
+            "value": 2
+          },
+          {
+            "date": "2025-04-02",
+            "value": 1
+          },
+          {
+            "date": "2025-04-03",
+            "value": 4
+          },
+          {
+            "date": "2025-04-04",
+            "value": 5
+          },
+          {
+            "date": "2025-04-05",
+            "value": 2
+          },
+          {
+            "date": "2025-04-06",
+            "value": 3
+          },
+          {
+            "date": "2025-04-07",
+            "value": 1
+          },
+          {
+            "date": "2025-04-08",
+            "value": 0
+          },
+          {
+            "date": "2025-04-09",
+            "value": 5
+          },
+          {
+            "date": "2025-04-10",
+            "value": 2
+          },
+          {
+            "date": "2025-04-11",
+            "value": 1,
+            "editable": true
+          },
+          {
+            "date": "2025-04-12",
+            "value": 5,
+            "editable": true
+          },
+          {
+            "date": "2025-04-13",
+            "value": 1,
+            "editable": true
+          },
+          {
+            "date": "2025-04-14",
+            "value": 4,
+            "editable": true
+          },
+          {
+            "date": "2025-04-15",
+            "value": 2,
+            "editable": true
+          }
+        ]
+      },
+      "steps5k": {
+        "type": "private",
+        "startdate": "2025-04-02",
+        "enddate": "2025-05-31",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": [
+          {
+            "date": "2025-03-01",
+            "value": 3
+          },
+          {
+            "date": "2025-03-02",
+            "value": 1
+          },
+          {
+            "date": "2025-03-03",
+            "value": 2
+          },
+          {
+            "date": "2025-03-04",
+            "value": 4
+          },
+          {
+            "date": "2025-03-05",
+            "value": 4
+          },
+          {
+            "date": "2025-03-06",
+            "value": 0
+          },
+          {
+            "date": "2025-03-07",
+            "value": 0
+          },
+          {
+            "date": "2025-03-08",
+            "value": 3
+          },
+          {
+            "date": "2025-03-09",
+            "value": 4
+          },
+          {
+            "date": "2025-03-10",
+            "value": 4
+          },
+          {
+            "date": "2025-03-11",
+            "value": 3
+          },
+          {
+            "date": "2025-03-12",
+            "value": 5
+          },
+          {
+            "date": "2025-03-13",
+            "value": 5
+          },
+          {
+            "date": "2025-03-14",
+            "value": 1
+          },
+          {
+            "date": "2025-03-15",
+            "value": 5
+          },
+          {
+            "date": "2025-03-16",
+            "value": 2
+          },
+          {
+            "date": "2025-03-17",
+            "value": 3
+          },
+          {
+            "date": "2025-03-18",
+            "value": 3
+          },
+          {
+            "date": "2025-03-19",
+            "value": 3
+          },
+          {
+            "date": "2025-03-20",
+            "value": 0
+          },
+          {
+            "date": "2025-03-21",
+            "value": 5
+          },
+          {
+            "date": "2025-03-22",
+            "value": 3
+          },
+          {
+            "date": "2025-03-23",
+            "value": 5
+          },
+          {
+            "date": "2025-03-24",
+            "value": 0
+          },
+          {
+            "date": "2025-03-25",
+            "value": 2
+          },
+          {
+            "date": "2025-03-26",
+            "value": 1
+          },
+          {
+            "date": "2025-03-27",
+            "value": 5
+          },
+          {
+            "date": "2025-03-28",
+            "value": 5
+          },
+          {
+            "date": "2025-03-29",
+            "value": 1
+          },
+          {
+            "date": "2025-03-30",
+            "value": 3
+          },
+          {
+            "date": "2025-03-31",
+            "value": 1
+          },
+          {
+            "date": "2025-04-01",
+            "value": 1
+          },
+          {
+            "date": "2025-04-02",
+            "value": 2
+          },
+          {
+            "date": "2025-04-03",
+            "value": 0
+          },
+          {
+            "date": "2025-04-04",
+            "value": 2
+          },
+          {
+            "date": "2025-04-05",
+            "value": 0
+          },
+          {
+            "date": "2025-04-06",
+            "value": 4
+          },
+          {
+            "date": "2025-04-07",
+            "value": 1
+          },
+          {
+            "date": "2025-04-08",
+            "value": 2
+          },
+          {
+            "date": "2025-04-09",
+            "value": 0
+          },
+          {
+            "date": "2025-04-10",
+            "value": 3
+          },
+          {
+            "date": "2025-04-11",
+            "value": 4
+          },
+          {
+            "date": "2025-04-12",
+            "value": 1
+          },
+          {
+            "date": "2025-04-13",
+            "value": 4
+          },
+          {
+            "date": "2025-04-14",
+            "value": 4
+          },
+          {
+            "date": "2025-04-15",
+            "value": 2
+          }
+        ]
+      },
+      "id": "aiswarya"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1
+    }
+  ]
+}
