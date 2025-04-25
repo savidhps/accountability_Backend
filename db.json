@@ -49,12 +49,6 @@
       "id": 1
     },
     {
-      "username": "john_wick",
-      "email": "john@osaka.ja",
-      "password": "mustang",
-      "id": 10
-    },
-    {
       "username": "meera22",
       "email": "meera@luminare.com",
       "password": "1111111",
@@ -65,30 +59,16 @@
       "email": "aiswarya@luminar.com",
       "password": "uidesigner",
       "id": 12
-    }
-  ],
-  "usernames": [
-    {
-      "name": "john_wick",
-      "id": 1
-    }
-  ],
-  "alluserhabits": [
-    {
-      "core": [
-        "exercise",
-        "learning",
-        "self care",
-        "nutrition",
-        "Time management",
-        "journalling"
-      ],
-      "private": [
-        "meditation"
-      ],
-      "public": [],
-      "id": "monica"
     },
+    {
+      "username": "john_wick",
+      "email": "john@osaka.ja",
+      "password": "ballerina",
+      "id": 13
+    }
+  ],
+  "usernames": [],
+  "alluserhabits": [
     {
       "core": [
         "exercise",
@@ -150,6 +130,7 @@
       "id": "lawliet"
     },
     {
+      "picture": "Aidan",
       "core": [
         "exercise",
         "learning",
@@ -165,40 +146,7 @@
       "id": "erwin_smith"
     },
     {
-      "core": [
-        "exercise",
-        "learning",
-        "self care",
-        "nutrition",
-        "Time management",
-        "journalling"
-      ],
-      "private": [
-        "meditation"
-      ],
-      "public": [],
-      "id": "scott"
-    },
-    {
-      "core": [
-        "exercise",
-        "learning",
-        "self care",
-        "nutrition",
-        "Time management",
-        "journalling"
-      ],
-      "public": [
-        "calligraphy"
-      ],
-      "private": [
-        "Pullups",
-        "c++",
-        "pytorch"
-      ],
-      "id": "john_wick"
-    },
-    {
+      "picture": "Robert",
       "core": [
         "exercise",
         "learning",
@@ -215,6 +163,7 @@
       "id": "meera22"
     },
     {
+      "picture": "Mason",
       "core": [
         "exercise",
         "learning",
@@ -224,244 +173,35 @@
         "journalling"
       ],
       "private": [
-        "learn C++"
+        "C++"
       ],
       "public": [
+        "marathon ",
+        "break dancing ",
         "swimming "
       ],
       "archived": [],
       "id": "aiswarya"
+    },
+    {
+      "picture": "Ryan",
+      "core": [
+        "exercise",
+        "learning",
+        "self care",
+        "nutrition",
+        "Time management",
+        "journalling"
+      ],
+      "private": [],
+      "public": [
+        "Sushi"
+      ],
+      "archived": [],
+      "id": "john_wick"
     }
   ],
   "alluserhistory": [
-    {
-      "id": "john_wick",
-      "exercise": {
-        "type": "core",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": {
-          "2025": []
-        }
-      },
-      "learning": {
-        "type": "core",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": {
-          "2025": []
-        }
-      },
-      "self care": {
-        "type": "core",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": {
-          "2025": []
-        }
-      },
-      "nutrition": {
-        "type": "core",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": {
-          "2025": []
-        }
-      },
-      "Time management": {
-        "type": "core",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": {
-          "2025": []
-        }
-      },
-      "journalling": {
-        "type": "core",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": {
-          "2025": []
-        }
-      },
-      "kayaking": {
-        "type": "public",
-        "startDate": "2025-04-20",
-        "endDate": "2025-04-30",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": []
-      },
-      "fishing": {
-        "type": "public",
-        "startDate": "2025-04-21",
-        "endDate": "2025-04-30",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          2,
-          5,
-          4,
-          6,
-          7
-        ]
-      },
-      "keyboard": {
-        "type": "keyboard",
-        "description": "just for a leisure timepass",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": []
-      },
-      "pytorch": {
-        "type": "private",
-        "description": "zero to mastery",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": []
-      },
-      "c++": {
-        "type": "private",
-        "description": "master the art of kernel development",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": []
-      },
-      "Pullups": {
-        "type": "private",
-        "description": "Aim to achieve 10pullups",
-        "startDate": "2025-04-20",
-        "endDate": "never",
-        "options": {
-          "intensityScale": [
-            0,
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
-        },
-        "history": []
-      }
-    },
     {
       "id": "thorfinn",
       "exercise": {
@@ -575,6 +315,7 @@
     },
     {
       "id": "meera22",
+      "picture": "Robert",
       "exercise": {
         "type": "core",
         "startDate": "2025-04-22",
@@ -739,7 +480,6 @@
       "id": "aiswarya",
       "exercise": {
         "type": "core",
-        "author": "system",
         "description": "Physical activity for health and fitness.",
         "startDate": "2025-04-24",
         "endDate": "never",
@@ -759,7 +499,6 @@
       },
       "learning": {
         "type": "core",
-        "author": "system",
         "description": "Acquiring new knowledge or skills.",
         "startDate": "2025-04-24",
         "endDate": "never",
@@ -779,7 +518,6 @@
       },
       "self care": {
         "type": "core",
-        "author": "system",
         "description": "Activities to promote well-being.",
         "startDate": "2025-04-24",
         "endDate": "never",
@@ -799,7 +537,6 @@
       },
       "nutrition": {
         "type": "core",
-        "author": "system",
         "description": "Focusing on healthy eating habits.",
         "startDate": "2025-04-24",
         "endDate": "never",
@@ -819,7 +556,6 @@
       },
       "Time management": {
         "type": "core",
-        "author": "system",
         "description": "Organizing and planning your time effectively.",
         "startDate": "2025-04-24",
         "endDate": "never",
@@ -839,7 +575,6 @@
       },
       "journalling": {
         "type": "core",
-        "author": "system",
         "description": "Reflective writing for personal growth.",
         "startDate": "2025-04-24",
         "endDate": "never",
@@ -859,7 +594,7 @@
       },
       "swimming ": {
         "type": "public",
-        "description": "just starting witht the basics",
+        "description": "end goal is to do the backstroke and butteryfly",
         "startDate": "2025-04-24",
         "endDate": "never",
         "options": {
@@ -874,9 +609,44 @@
         },
         "history": []
       },
-      "learn C++": {
+      "C++": {
         "type": "private",
-        "description": "  an interview preparation ",
+        "description": "learn the basics of C++ to crack an online interview",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": []
+      },
+      "break dancing ": {
+        "type": "public",
+        "description": "remastering the old habits to keep in touch",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": []
+      },
+      "picture": "Mason",
+      "marathon ": {
+        "type": "public",
+        "description": "starting with 2kms run for marathon practice",
         "startDate": "2025-04-24",
         "endDate": "never",
         "options": {
@@ -891,6 +661,155 @@
         },
         "history": []
       }
+    },
+    {
+      "id": "john_wick",
+      "picture": "Ryan",
+      "exercise": {
+        "type": "core",
+        "description": "Physical activity for health and fitness.",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": []
+        }
+      },
+      "learning": {
+        "type": "core",
+        "description": "Acquiring new knowledge or skills.",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": []
+        }
+      },
+      "self care": {
+        "type": "core",
+        "description": "Activities to promote well-being.",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": []
+        }
+      },
+      "nutrition": {
+        "type": "core",
+        "description": "Focusing on healthy eating habits.",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": []
+        }
+      },
+      "Time management": {
+        "type": "core",
+        "description": "Organizing and planning your time effectively.",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": []
+        }
+      },
+      "journalling": {
+        "type": "core",
+        "description": "Reflective writing for personal growth.",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": {
+          "2025": []
+        }
+      },
+      "Sushi": {
+        "type": "public",
+        "description": "14 days of sushi mastering challenge\nfeel free to join ",
+        "startDate": "2025-04-24",
+        "endDate": "never",
+        "options": {
+          "intensityScale": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "history": []
+      }
+    }
+  ],
+  "profilepicture": [
+    {
+      "id": "aiswarya",
+      "picture": "Mason"
+    },
+    {
+      "id": "meera22",
+      "picture": "Robert"
+    },
+    {
+      "id": "john_wick",
+      "picture": "Ryan"
     }
   ],
   "blogs": [
@@ -947,12 +866,6 @@
       "title": "Body doubling and you: unlock your focus whether you have ADHD or not",
       "metaText": "Dip into our comprehensive guide to body doubling, and learn practical tips on how to use it to stop procrastinating, spark focus, and make productivity easy.",
       "londes": "I’ll admit when I first heard the term body doubling I too began conjuring images of mannequins and stuntmen. But through running countless body doubling sessions and tons of research, I’ve discovered it to be one of the most powerful work hacks out there.If you’ve ever found yourself buried in emails and Slack pings, only to reach the end of the day with your major projects still staring you down, body doubling may be just what you need.So, keep reading to discover everything you need to know about what body doubling is, how to do it, and how you can use it to kiss burnout goodbye and transform your daily grind into a flow of productive success.Body doubling is a term used to describe the practice of performing a task with someone else present. Sounds simple, yet works like a charm when it comes to staving off procrastination to concentrate on your tasks.As a productivity coach, I’ve seen firsthand how body doubling can help folks get kickstarted with their meatiest projects. Which is why I always talk about its benefits, whether consulting with businesses or delivering talks to students and faculty at places like Oxford University.The term ‘body doubling’ was first coined in 1996 by Linda Anderson, an executive productivity coach who later became popular among the ADHD community.However the true origins of body doubling go all the way back to the play theorists of the early 20th century. Back then you had the likes of Lev Vygotsky, Jean Piaget, Mildred Parten and others exploring the psychology of learning and play among children.Parten observed that when young children played independently alongside one another — a phenomenon known as parallel play —  they’d continue playing for far longer than when playing alone.Through her work with ADHD clients, Anderson discovered this same phenomenon to be apparent among adults."
-    }
-  ],
-  "profilepicture": [
-    {
-      "id": "aiswarya",
-      "picture": "Jameson"
     }
   ]
 }
